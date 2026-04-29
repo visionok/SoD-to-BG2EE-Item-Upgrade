@@ -759,7 +759,7 @@ These are all-new items that can be obtained via cromwell/cespenar or other meth
 	– The target suffers -1 to Strength for 5 rounds per hit (minimum 1 Strength; Save vs. Spell negates)
 	– Does no damage to the undead
 	– Bonuses to hit and damage based on strength do not apply to this weapon
-	– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), weilder is healed for amount of damage done.
+	– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), wielder is healed for amount of damage done.
 
 	THAC0: +5
 	Damage: 1d8+5 (magic)
@@ -781,7 +781,7 @@ These are all-new items that can be obtained via cromwell/cespenar or other meth
 	– The target suffers -1 to Strength for 5 rounds per hit (minimum 1 Strength; Save vs. Spell negates)
 	– Does no damage to the undead
 	– Bonuses to hit and damage based on strength do not apply to this weapon
-	– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), weilder is healed for amount of damage done.
+	– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), wielder is healed for amount of damage done.
 
 	THAC0: +5
 	Damage: 1d8+5 (magic)
@@ -1824,7 +1824,7 @@ Weight: 3
 - Element's Fury +3
 
 	Combat abilities:
-	– Returns to the weilder's hand when thrown
+	– Returns to the wielder's hand when thrown
 	– Deals an extra 1d4 cold damage to fire elementals
 	– Deals an extra 1d4 fire damage to water elementals
 	– Deals an extra 1d4 acid damage to earth elementals
@@ -1845,7 +1845,7 @@ Weight: 3
 - Element's Fury +4 (Frost)
 
 	Combat abilities:
-	– Returns to the weilder's hand when thrown
+	– Returns to the wielder's hand when thrown
 	– Deals an extra 1d4 cold damage to fire elementals
 	– Deals an extra 1d4 fire damage to water elementals
 	– Deals an extra 1d4 acid damage to earth elementals
@@ -1869,7 +1869,7 @@ Weight: 3
 - Element's Fury +4 (Flame)
 
 	Combat abilities:
-	– Returns to the weilder's hand when thrown
+	– Returns to the wielder's hand when thrown
 	– Deals an extra 1d4 cold damage to fire elementals
 	– Deals an extra 1d4 fire damage to water elementals
 	– Deals an extra 1d4 acid damage to earth elementals
@@ -1893,7 +1893,7 @@ Weight: 3
 - Element's Fury +4 (Ichor)
 
 	Combat abilities:
-	– Returns to the weilder's hand when thrown
+	– Returns to the wielder's hand when thrown
 	– Deals an extra 1d4 cold damage to fire elementals
 	– Deals an extra 1d4 fire damage to water elementals
 	– Deals an extra 1d4 acid damage to earth elementals
@@ -1917,7 +1917,7 @@ Weight: 3
 - Element's Fury +4 (Wind)
 
 	Combat abilities:
-	– Returns to the weilder's hand when thrown
+	– Returns to the wielder's hand when thrown
 	– Deals an extra 1d4 cold damage to fire elementals
 	– Deals an extra 1d4 fire damage to water elementals
 	– Deals an extra 1d4 acid damage to earth elementals
@@ -1941,7 +1941,7 @@ Weight: 3
 - Maelstrom Axe +3
 
 	Combat abilities:
-	– Returns to weilder's hand when thrown
+	– Returns to wielder's hand when thrown
 	– 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
 	– Slays fire elementals, efreet, and salamanders
 
@@ -1961,7 +1961,7 @@ Weight: 3
 - Maelstrom Axe +4
 
 	Combat abilities:
-	– Returns to weilder's hand when thrown
+	– Returns to wielder's hand when thrown
 	– 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
 	– Slays fire elementals, efreet, and salamanders
 	– 10% chance per hit of smashing wave (melee only)
@@ -1984,7 +1984,7 @@ Weight: 3
 - Maelstrom Axe +5
 
 	Combat abilities:
-	– Returns to weilder's hand when thrown
+	– Returns to wielder's hand when thrown
 	– 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
 	– Slays fire elementals, efreet, and salamanders
 	– 10% chance per hit of smashing wave (melee only)
@@ -2986,7 +2986,7 @@ Weight: 3
 
 	Combat abilities:
 	– 20% chance of blinding creatures struck for 1 turn, or draining them of 1 level permanently. (Save vs. Spell at -4 negates)
-	– On critical hit, a shadow monster is summoned to fight alongside the weilder for 1 turn. (with this weapon only)
+	– On critical hit, a shadow monster is summoned to fight alongside the wielder for 1 turn. (with this weapon only)
 
 	THAC0: +5
 	Damage: 1d8+5, 1d2+1(cold), 1d2+1(magic)
@@ -3396,7 +3396,7 @@ Weight: 2
 	– Strength: +1
 
 	Combat abilities:
-	– 4% chance per hit that the weilder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
+	– 4% chance per hit that the wielder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
 
 	THAC0: +4
 	Damage: 1d8+4, 1d2 (cold), 1d2 (acid)
@@ -3416,7 +3416,7 @@ Weight: 2
 	– Strength: +1
 
 	Combat abilities:
-	– 6% chance per hit that the weilder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
+	– 6% chance per hit that the wielder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
 
 	Charge abilities:
 	– Penetrating Cold once per day

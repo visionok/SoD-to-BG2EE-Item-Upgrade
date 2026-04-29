@@ -1234,7 +1234,7 @@ STATISTICS:
 
 Combat abilities:
 – 15% chance per hit of penalizing the target's Armor Class by 1 for 1 turn (Save vs. Breath negates)
-– Returns to the weilder's hand when thrown
+– Returns to the wielder's hand when thrown
 
 THAC0: +3
 Damage: 1d3+3 (missile), +2 acid
@@ -1244,7 +1244,7 @@ Type: One-handed
 
 Weight: 0~
 @2030 = ~Vampiric Voidsword +5~
-@2031 = ~By absorbing the dark magics contained in the lich's skull, the Voidsword's hunger has been amplified greatly.  Strikes from the blade now do more damage, and there is a chance on hit of draining strength and life from all enemies within a 15' radius.  The life drained from the targets is transferred to the weilder, healing <PRO_HESHE> for the amount of damage done.  Undead, however are still unaffected by this weapon or its effects.
+@2031 = ~By absorbing the dark magics contained in the lich's skull, the Voidsword's hunger has been amplified greatly.  Strikes from the blade now do more damage, and there is a chance on hit of draining strength and life from all enemies within a 15' radius.  The life drained from the targets is transferred to the wielder, healing <PRO_HESHE> for the amount of damage done.  Undead, however are still unaffected by this weapon or its effects.
 
 STATISTICS:
 
@@ -1255,7 +1255,7 @@ Combat abilities:
 – The target suffers -1 to Strength for 5 rounds per hit (minimum 1 Strength; Save vs. Spell negates)
 – Does no damage to the undead
 – Bonuses to hit and damage based on strength do not apply to this weapon
-– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), weilder is healed for amount of damage done.
+– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), wielder is healed for amount of damage done.
 
 THAC0: +5
 Damage: 1d8+5 (magic)
@@ -1267,7 +1267,7 @@ Requires:
 
 Weight: 2~
 @2032 = ~Vampiric Voidhammer +5~
-@2033 = ~By absorbing the dark magics contained in the lich's skull, the Voidhammer's hunger has been amplified greatly.  Strikes from the hammer now do more damage, and there is a chance on hit of draining strength and life from all enemies within a 15' radius.  The life drained from the targets is transferred to the weilder, healing <PRO_HESHE> for the amount of damage done.  Undead, however are still unaffected by this weapon or its effects.
+@2033 = ~By absorbing the dark magics contained in the lich's skull, the Voidhammer's hunger has been amplified greatly.  Strikes from the hammer now do more damage, and there is a chance on hit of draining strength and life from all enemies within a 15' radius.  The life drained from the targets is transferred to the wielder, healing <PRO_HESHE> for the amount of damage done.  Undead, however are still unaffected by this weapon or its effects.
 
 STATISTICS:
 
@@ -1278,7 +1278,7 @@ Combat abilities:
 – The target suffers -1 to Strength for 5 rounds per hit (minimum 1 Strength; Save vs. Spell negates)
 – Does no damage to the undead
 – Bonuses to hit and damage based on strength do not apply to this weapon
-– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), weilder is healed for amount of damage done.
+– 30% chance on hit of 2d3 damage (magic) and -1 to Strength for 5 rounds to enemies in 15' radius(No Save), wielder is healed for amount of damage done.
 
 THAC0: +5
 Damage: 1d4+6 (magic)
@@ -1334,13 +1334,13 @@ Requires:
 
 Weight: 1~
 @2041 = ~Sundermaul +3~
-@2042 = ~Legends speak of a hammer with the power of the gods themselves called Crom Faeyr. A smith once forged an inferior hammer and claimed it Crom Faeyr. Such was the retribution of the gods that ever since, when the name "Crom Faeyr" is uttered, the very earth beneath the weilder's feet may rip and tear asunder, threatening to bury the blasphemer and any who happen to be standing nearby.
+@2042 = ~Legends speak of a hammer with the power of the gods themselves called Crom Faeyr. A smith once forged an inferior hammer and claimed it Crom Faeyr. Such was the retribution of the gods that ever since, when the name "Crom Faeyr" is uttered, the very earth beneath the wielder's feet may rip and tear asunder, threatening to bury the blasphemer and any who happen to be standing nearby.
 
 STATISTICS:
 
 Combat abilities:
 – 15% chance per hit of inflicting a -1 penalty to Armor Class for 1 turn (Save vs. Spell negates)
-– 2% chance per hit that an earthquake is triggered, centered on the weilder
+– 2% chance per hit that an earthquake is triggered, centered on the wielder
 
 THAC0: +3
 Damage: 1d4+4 (crushing)
@@ -1352,7 +1352,7 @@ Requires:
 
 Weight: 4~
 @2043 = ~Sundermaul +5~
-@2044 = ~With the Rune of Clangeddin inscribed into the head of Sundermaul, its power is now much more akin to what its original creator proclaimed.  Conversly, the gods also seem appeased with this modification, allowing the weilder to focus the power of an earthquake upon their enemies once per day instead of randomly on themselves and their allies.
+@2044 = ~With the Rune of Clangeddin inscribed into the head of Sundermaul, its power is now much more akin to what its original creator proclaimed.  Conversly, the gods also seem appeased with this modification, allowing the wielder to focus the power of an earthquake upon their enemies once per day instead of randomly on themselves and their allies.
 
 STATISTICS:
 
@@ -1784,12 +1784,12 @@ Requires:
 
 Weight: 3~
 @2091 = ~Bow of the Banshee +2~
-@2092 = ~A wooden face carved mid-scream stares out from the shaft of this hardwood bow. It's whispered that the half-orc archer Zavruk had an elven soul bound into the bow, but the bow's lack of a necromantic aura casts doubt on the story. What's certain is that the bowstring makes a horrible screeching noise whenever fired, instilling fear in the weilder's enemies.
+@2092 = ~A wooden face carved mid-scream stares out from the shaft of this hardwood bow. It's whispered that the half-orc archer Zavruk had an elven soul bound into the bow, but the bow's lack of a necromantic aura casts doubt on the story. What's certain is that the bowstring makes a horrible screeching noise whenever fired, instilling fear in the wielder's enemies.
 
 STATISTICS:
 
 Combat abilities:
-– 10% chance per hit of casting Cloak of Fear centered on the weilder
+– 10% chance per hit of casting Cloak of Fear centered on the wielder
 – Deals 1 extra point of magic damage to panicked targets
 
 THAC0: +3
@@ -1895,13 +1895,13 @@ Requires:
 
 Weight: 1~
 @2107 = ~Storm Pike +2~
-@2108 = ~Storm giants seldom do favors for humans, but when Threk Boltweilder was saved by the wizard Alimor, Threk offered his services as a conduit for the wizard's enchanting spells. Alimor borrowed a lightning bolt from the storm giant to craft this halberd for his companion, Haldus, who had often complained about how the party never found any magic halberds despite it being his chosen weapon. Haldus was so excited by the storm giant's gift that he wielded it immediately, striking a boulder that happened to be nearby, and was promptly struck dead by the captured lightning's power.
+@2108 = ~Storm giants seldom do favors for humans, but when Threk Boltwielder was saved by the wizard Alimor, Threk offered his services as a conduit for the wizard's enchanting spells. Alimor borrowed a lightning bolt from the storm giant to craft this halberd for his companion, Haldus, who had often complained about how the party never found any magic halberds despite it being his chosen weapon. Haldus was so excited by the storm giant's gift that he wielded it immediately, striking a boulder that happened to be nearby, and was promptly struck dead by the captured lightning's power.
 
 STATISTICS:
 
 Combat abilities:
 – 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
-– On a critical miss, the halberd deals 1d4 electrical damage to the weilder
+– On a critical miss, the halberd deals 1d4 electrical damage to the wielder
 
 THAC0: +2
 Damage: 1d10+2 (slashing or piercing, whichever is better), +1 electrical
@@ -1963,7 +1963,7 @@ STATISTICS:
 
 Combat abilities:
 – Inflicts 2 points of bleeding damage per hit (one point per round)
-– Drains 2 points of Strength from the target and transfers them to the weilder for 5 rounds when a successful backstab is performed (non-cumulative)
+– Drains 2 points of Strength from the target and transfers them to the wielder for 5 rounds when a successful backstab is performed (non-cumulative)
 
 STATISTICS:
 
@@ -1996,7 +1996,7 @@ Duration: 2 turns
 
 Weight: 2~
 @2125 = ~The Uncursed Staff of Antipode~
-@2126 = ~The Uncursed Staff +1 has been infused with frost and fire magics, a most volatile combination.  When struck by the staff, foes are blasted with frostfire causing extra fire of cold damage.  Additionally, the weilder may launch the spell, Antipode at <PRO_HISHER> enemies, the subsequent explosion causing scorching wounds and impaling them with shards of ice.
+@2126 = ~The Uncursed Staff +1 has been infused with frost and fire magics, a most volatile combination.  When struck by the staff, foes are blasted with frostfire causing extra fire of cold damage.  Additionally, the wielder may launch the spell, Antipode at <PRO_HISHER> enemies, the subsequent explosion causing scorching wounds and impaling them with shards of ice.
 
 STATISTICS:
 
@@ -2019,7 +2019,7 @@ Requires:
 
 Weight: 4~
 @2127 = ~Nasty Backwhacker +4~
-@2128 = ~After meticulous reforging at the behest of <CHARNAME>, using the barb of a wyvern's tail and the fercious spirit of a wolverine, the backwhacker seemingly comes alive in its weilder's hands with the spirits of both beasts.  Poisonous splinters from the weapon embed themselves in a foe's flesh, causing lingering damage.
+@2128 = ~After meticulous reforging at the behest of <CHARNAME>, using the barb of a wyvern's tail and the fercious spirit of a wolverine, the backwhacker seemingly comes alive in its wielder's hands with the spirits of both beasts.  Poisonous splinters from the weapon embed themselves in a foe's flesh, causing lingering damage.
 
 STATISTICS:
 
@@ -2117,12 +2117,12 @@ Equipped abilities:
 
 Weight: 3~
 @2139 = ~Element's Fury +3~
-@2140 = ~The element's fury has been caretakingly reforged for <CHARNAME>, and is now able to be used as a throwing a dagger that return's to the weilder's hand when thrown.  It is also hits harder and is more accurate in addition to retaining all of its elemental abilities.
+@2140 = ~The element's fury has been caretakingly reforged for <CHARNAME>, and is now able to be used as a throwing a dagger that return's to the wielder's hand when thrown.  It is also hits harder and is more accurate in addition to retaining all of its elemental abilities.
 
 STATISTICS:
 
 Combat abilities:
-– Returns to the weilder's hand when thrown
+– Returns to the wielder's hand when thrown
 – Deals an extra 1d4 cold damage to fire elementals
 – Deals an extra 1d4 fire damage to water elementals
 – Deals an extra 1d4 acid damage to earth elementals
@@ -2144,7 +2144,7 @@ Weight: 1~
 STATISTICS:
 
 Combat abilities:
-– Returns to the weilder's hand when thrown
+– Returns to the wielder's hand when thrown
 – Deals an extra 1d4 cold damage to fire elementals
 – Deals an extra 1d4 fire damage to water elementals
 – Deals an extra 1d4 acid damage to earth elementals
@@ -2164,12 +2164,12 @@ Requires:
 
 Weight: 1~
 @2143 = ~Maelstrom Axe +3~
-@2144 = ~By attaching the axe head of the storm pike to a shortend wave shaft, The weapon is now usable as a throwing axe.  With the combined magics of a storm giant's bolt and umberlee's oceanic fury, foes take additional damage from frost and lightning, and most fire-using creatures are slain when hit.  Additionally, the weapon no longer damages the weilder upon a critical miss, effectively being grounded by the new handle.
+@2144 = ~By attaching the axe head of the storm pike to a shortend wave shaft, The weapon is now usable as a throwing axe.  With the combined magics of a storm giant's bolt and umberlee's oceanic fury, foes take additional damage from frost and lightning, and most fire-using creatures are slain when hit.  Additionally, the weapon no longer damages the wielder upon a critical miss, effectively being grounded by the new handle.
 
 STATISTICS:
 
 Combat abilities:
-– Returns to weilder's hand when thrown
+– Returns to wielder's hand when thrown
 – 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
 – Slays fire elementals, efreet, and salamanders
 
@@ -2185,7 +2185,7 @@ Requires:
 
 Weight: 2~
 @2145 = ~Maelstrom Pike +4~
-@2146 = ~By reforging the storm pike with the wave shaft, the weapon now combines the magics from the storm giant's bolt, and umberlee's oceanic fury doing both cold and electrical damage to foes when hit.  Most fire-using creatures are immediatley slain when struck.  Additionally, the addition of the wave shaft grounds the weilder, preventing stray bolts of electricity from damaging him or her on a critical miss.
+@2146 = ~By reforging the storm pike with the wave shaft, the weapon now combines the magics from the storm giant's bolt, and umberlee's oceanic fury doing both cold and electrical damage to foes when hit.  Most fire-using creatures are immediatley slain when struck.  Additionally, the addition of the wave shaft grounds the wielder, preventing stray bolts of electricity from damaging him or her on a critical miss.
 
 STATISTICS:
 
@@ -2208,7 +2208,7 @@ Weight: 12~
 STATISTICS:
 
 Combat abilities:
-– Returns to weilder's hand when thrown
+– Returns to wielder's hand when thrown
 – 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
 – Slays fire elementals, efreet, and salamanders
 – 10% chance per hit of smashing wave (melee only)
@@ -2227,7 +2227,7 @@ Requires:
 
 Weight: 6~
 @2149 = ~Maelstrom Pike +5~
-@2150 = ~Grafting of the wave blade onto the reforged Storm Pike has further increased both it's combat prowess in melee and control over the elements.  The weilder is able to strike with the full force of a tsunami, crushing <PRO_HISHER> enemies as they are driven before <PRO_HIMHER>.
+@2150 = ~Grafting of the wave blade onto the reforged Storm Pike has further increased both it's combat prowess in melee and control over the elements.  The wielder is able to strike with the full force of a tsunami, crushing <PRO_HISHER> enemies as they are driven before <PRO_HIMHER>.
 
 STATISTICS:
 
@@ -2285,7 +2285,7 @@ Charge Abilities:
 
 Weight: 0~
 @2155 = ~Bulwark of Egons +3~
-@2156 = ~Having been reforged into a larger shield and coated in illithium ore, the blessings of the morninglord shine brightly through this bulwark, protecting the weilder from the undead's vilest attacks, and empowering a cleric or paladin to repel and destroy them with fervor.
+@2156 = ~Having been reforged into a larger shield and coated in illithium ore, the blessings of the morninglord shine brightly through this bulwark, protecting the wielder from the undead's vilest attacks, and empowering a cleric or paladin to repel and destroy them with fervor.
 
 STATISTICS:
 
@@ -2308,7 +2308,7 @@ Combat abilities:
 – Inflicts 4 points of bleeding damage per hit (two points per round)
 – 20% chance of insect swarm on target
   3 points of piercing damage per round for 7 rounds, -2 THAC0, -2 AC, 50% chance of spell failure (Save vs. Breath at -4 negates)
-– Drains 2 points of Strength from the target and transfers them to the weilder for 5 rounds when a successful backstab is performed (non-cumulative)
+– Drains 2 points of Strength from the target and transfers them to the wielder for 5 rounds when a successful backstab is performed (non-cumulative)
 – Blinds target on successful backstab (no save)
 
 THAC0: +5
@@ -2321,7 +2321,7 @@ Requires:
 
 Weight: 2~
 @2159 = ~Bulwark of Egons +4~
-@2160 = ~With the symbol of Amaunator set into the hub of the bulwark of egons, the shield now shimmers with holy power and light.  The weilder of this shield is blessed with the power of the morninglord, making them a holy force against evil.
+@2160 = ~With the symbol of Amaunator set into the hub of the bulwark of egons, the shield now shimmers with holy power and light.  The wielder of this shield is blessed with the power of the morninglord, making them a holy force against evil.
 
 STATISTICS:
 
@@ -2355,7 +2355,7 @@ Requires:
 
 Weight: 5~
 @2163 = ~Shadowed Spear +2~
-@2164 = ~Rumor has it that a cult of Shar crafted this spear for blackguards in their service, but the spear was liberated during an attack by knights of Lathander. The Temple of Lathander in Athkatla hid the spear away for many years before it was stolen one night by burglars in service to Mask. Since then multiple copies of the spear have been spotted, presumably duplicated by the clergy of Mask. Shadows cling to the black shaft of the spear and the weilder seems to flicker in and out of reality.
+@2164 = ~Rumor has it that a cult of Shar crafted this spear for blackguards in their service, but the spear was liberated during an attack by knights of Lathander. The Temple of Lathander in Athkatla hid the spear away for many years before it was stolen one night by burglars in service to Mask. Since then multiple copies of the spear have been spotted, presumably duplicated by the clergy of Mask. Shadows cling to the black shaft of the spear and the wielder seems to flicker in and out of reality.
 
 STATISTICS:
 
@@ -2594,7 +2594,7 @@ STATISTICS:
 
 Weight: 10~
 @2191 = ~Tongue of Acid +4~
-@2192 = ~The infernal long blade from Avernus has been reforged with the silver hilt of a Gith's vorpal blade, enabling the weilder to weave the sword more accurately and forcefully.  In addition, the weilder is now protected from confusion and psionic attacks, no doubt due to the magics imbued in the Gith-forged hilt.
+@2192 = ~The infernal long blade from Avernus has been reforged with the silver hilt of a Gith's vorpal blade, enabling the wielder to weave the sword more accurately and forcefully.  In addition, the wielder is now protected from confusion and psionic attacks, no doubt due to the magics imbued in the Gith-forged hilt.
 
 STATISTICS:
 
@@ -2615,7 +2615,7 @@ Requires:
 
 Weight: 2~
 @2193 = ~Tongue of Acid +5~
-@2194 = ~The Eye of Ichor has been set into the hilt of the Tongue of Acid, increasing the amount of acid leached into the wounds it creates, doing even more damage and causing excrutiating pain to the unfortunate victim, making it ever more difficult for them to fight back.  Once per day, the weilder may conjure a thick, corrsive shell of ichor around <PRO_HIMHER>self, protecting <PRO_HIMHER> from acid attacks.  Attackers who breach this shell recoil in agony as the ichor dissolves flesh and bone, hindering their abilitiy to strike further.
+@2194 = ~The Eye of Ichor has been set into the hilt of the Tongue of Acid, increasing the amount of acid leached into the wounds it creates, doing even more damage and causing excrutiating pain to the unfortunate victim, making it ever more difficult for them to fight back.  Once per day, the wielder may conjure a thick, corrsive shell of ichor around <PRO_HIMHER>self, protecting <PRO_HIMHER> from acid attacks.  Attackers who breach this shell recoil in agony as the ichor dissolves flesh and bone, hindering their abilitiy to strike further.
 
 STATISTICS:
 
@@ -2781,7 +2781,7 @@ Equipped abilities:
 – Movement Speed: +1
 
 Combat abilities:
-– 10% chance per kill that the weilder will be affected by Fireshield (Red)
+– 10% chance per kill that the wielder will be affected by Fireshield (Red)
 
 THAC0: +2
 Damage: 1d8+2, +1 fire
@@ -2794,7 +2794,7 @@ Requires:
 
 Weight: 3~
 @2213 = ~Dervish Crescent of Speed +3~
-@2214 = ~Painstakingly reforged for <CHARNAME>, this Calmishite scimitar now allows the weilder to strike harder and faster, like a whirling dervish.  Enemies' wounds are seared upon each strike and there is a greater chance of being enveloped by a protective ring of flame.
+@2214 = ~Painstakingly reforged for <CHARNAME>, this Calmishite scimitar now allows the wielder to strike harder and faster, like a whirling dervish.  Enemies' wounds are seared upon each strike and there is a greater chance of being enveloped by a protective ring of flame.
 
 STATISTICS:
 
@@ -2802,7 +2802,7 @@ Equipped abilities:
 – Movement Speed: +1
 
 Combat abilities:
-– 15% chance per kill that the weilder will be affected by Fireshield (Red)
+– 15% chance per kill that the wielder will be affected by Fireshield (Red)
 – 1 extra attack per round
 
 THAC0: +3
@@ -2851,7 +2851,7 @@ Equipped abilities:
 
 Weight: 0~
 @2223 = ~Varscona +3~
-@2224 = ~A strange and unique ioun stone containing a portion of the Shade Lord's dark essence has been placed within Varscona's hilt, which has empowered the dark sword to strike harder and more accurately than before.  The blade is now wreathed in shadow, and oozes an inky darkness consuming all nearby light within.  This coalesced darkness can be be fired in the form of a bolt of shadow energy from the tip of the blade three times per day at the weilder's enemies.
+@2224 = ~A strange and unique ioun stone containing a portion of the Shade Lord's dark essence has been placed within Varscona's hilt, which has empowered the dark sword to strike harder and more accurately than before.  The blade is now wreathed in shadow, and oozes an inky darkness consuming all nearby light within.  This coalesced darkness can be be fired in the form of a bolt of shadow energy from the tip of the blade three times per day at the wielder's enemies.
 
 STATISTICS:
 
@@ -2880,7 +2880,7 @@ Requires:
 
 Weight: 3~
 @2225 = ~Varscona +4~
-@2226 = ~At the behest and expense of <CHARNAME>, Varscona has been reforged with precision using the otherworldly unfinished hilt that <PRO_HESHE> found in the Dark Moon Heretics' temple.  The hilt accepted the dark stone containing the Shade Lord's essence, and the dark energies now much more focused within the blade.  The semi-sentient properties of the hilt anticipates the weilder's intent allowing <PRO_HIMHER> to strike with more ferocity and accuracy, as well as increasing the strength of the shadowy bolts that can be fired from the blade.
+@2226 = ~At the behest and expense of <CHARNAME>, Varscona has been reforged with precision using the otherworldly unfinished hilt that <PRO_HESHE> found in the Dark Moon Heretics' temple.  The hilt accepted the dark stone containing the Shade Lord's essence, and the dark energies now much more focused within the blade.  The semi-sentient properties of the hilt anticipates the wielder's intent allowing <PRO_HIMHER> to strike with more ferocity and accuracy, as well as increasing the strength of the shadowy bolts that can be fired from the blade.
 
 STATISTICS:
 
@@ -3075,7 +3075,7 @@ Equipped abilities:
 – Critical Hit Chance: +5% (with this weapon only)
 
 Combat abilities:
-– 15% chance per kill of hasting the weilder for 3 rounds
+– 15% chance per kill of hasting the wielder for 3 rounds
 
 THAC0: +2
 Damage: 1d10+2 (slashing) 
@@ -3095,7 +3095,7 @@ Equipped abilities:
 – Hit Points: +5
 
 Combat abilities:
-– 15% chance per hit of draining 1d4 Hit Points from the target and transferring them to the weilder. This will not heal beyond the weilder's maximum. Does not affect undead, constructs, and extraplanar creatures.
+– 15% chance per hit of draining 1d4 Hit Points from the target and transferring them to the wielder. This will not heal beyond the wielder's maximum. Does not affect undead, constructs, and extraplanar creatures.
 
 THAC0: +2
 Damage: 2d4+2 (slashing)
@@ -3115,7 +3115,7 @@ Equipped abilities:
 – Critical Hit Chance: +5% (with this weapon only)
 
 Combat abilities:
-– 15% chance per kill of hasting the weilder for 3 rounds
+– 15% chance per kill of hasting the wielder for 3 rounds
 
 THAC0: +3
 Damage: 1d10+3 (slashing) +1d3 (fire)
@@ -3127,7 +3127,7 @@ Requires:
 
 Weight: 4~
 @2261 = ~Severance +3~
-@2262 = ~This well-balanced fighter's blade has been reforged and a gemstone of light placed into the crossguard.  The blade now imparts even more energy to the weilder, allowing them to fight longer and harder.  Additionally, the life-draining effect now affects all creatures, and occurs more often.
+@2262 = ~This well-balanced fighter's blade has been reforged and a gemstone of light placed into the crossguard.  The blade now imparts even more energy to the wielder, allowing them to fight longer and harder.  Additionally, the life-draining effect now affects all creatures, and occurs more often.
 
 STATISTICS:
 
@@ -3136,7 +3136,7 @@ Equipped abilities:
 – Extra 1/2 attack per round
 
 Combat abilities:
-– 20% chance per hit of draining 1d4 Hit Points from the target and transferring them to the weilder. This will not heal beyond the weilder's maximum.
+– 20% chance per hit of draining 1d4 Hit Points from the target and transferring them to the wielder. This will not heal beyond the wielder's maximum.
 
 THAC0: +3
 Damage: 2d4+3 (slashing)
@@ -3156,7 +3156,7 @@ Equipped abilities:
 – Critical Hit Chance: +10% (with this weapon only)
 
 Combat abilities:
-– 20% chance per kill of hasting the weilder for 3 rounds
+– 20% chance per kill of hasting the wielder for 3 rounds
 
 THAC0: +5
 Damage: 1d10+5 (slashing) 1d4+1 (fire)
@@ -3168,7 +3168,7 @@ Requires:
 
 Weight: 4~
 @2265 = ~Severance +5~
-@2266 = ~Painstakingly reforging the Severance +3 with unearthly starfall ore has brought the sword to it's full potential.  The weilder is fully energized by the blade, allowing <PRO_HIMHER> to fight long past the point of exhaustion, wading through scores of foes with haste and ease.
+@2266 = ~Painstakingly reforging the Severance +3 with unearthly starfall ore has brought the sword to it's full potential.  The wielder is fully energized by the blade, allowing <PRO_HIMHER> to fight long past the point of exhaustion, wading through scores of foes with haste and ease.
 
 STATISTICS:
 
@@ -3177,7 +3177,7 @@ Equipped abilities:
 – 1 extra attack per round
 
 Combat abilities:
-– 25% chance per hit of draining 1d4 Hit Points from the target and transferring them to the weilder. This will not heal beyond the weilder's maximum.
+– 25% chance per hit of draining 1d4 Hit Points from the target and transferring them to the wielder. This will not heal beyond the wielder's maximum.
 
 THAC0: +5
 Damage: 2d4+5 (slashing)
@@ -3782,7 +3782,7 @@ Launcher: Crossbow
 
 Weight: 0~
 @2321 = ~Martyr's Morningstar +2~
-@2322 = ~Forged by Ilusarian Roan, a priest of Ilmater, this morning star sacrifices the weilder's strength in order to destroy the enemies of the faith. Roan used the morning star when he joined a company of knights and priests fighting against a cabal of Cyricists. He took down six cultists before he died, and the morning star was returned to the temple with his remains.
+@2322 = ~Forged by Ilusarian Roan, a priest of Ilmater, this morning star sacrifices the wielder's strength in order to destroy the enemies of the faith. Roan used the morning star when he joined a company of knights and priests fighting against a cabal of Cyricists. He took down six cultists before he died, and the morning star was returned to the temple with his remains.
 
 STATISTICS:
 
@@ -3802,7 +3802,7 @@ Requires:
 
 Weight: 9~
 @2323 = ~Martyr's Morningstar +3~
-@2324 = ~Expert reforging with a blessed king's tear has enfused the Martyr's Morningstar with holy power, which is imparted upon the weilder, allowing <PRO_HIMHER> to swing with fervor, connecting with critical hits more easily, crushing foes and leaving them stunned.  This power comes at a cost, however.  The crying god demands more strength from the weilder in return for his favor.
+@2324 = ~Expert reforging with a blessed king's tear has enfused the Martyr's Morningstar with holy power, which is imparted upon the wielder, allowing <PRO_HIMHER> to swing with fervor, connecting with critical hits more easily, crushing foes and leaving them stunned.  This power comes at a cost, however.  The crying god demands more strength from the wielder in return for his favor.
 
 STATISTICS:
 
@@ -3824,7 +3824,7 @@ Requires:
 
 Weight: 9~
 @2325 = ~Martyr's Morningstar +5~
-@2326 = ~With the addition of the Nymph's Tear into the pommel, Ilusarian's morningstar now surges with Ilmater's holy retribution.  While it demands ever more from the weilder's own strength, the crying god's faithful would be well served by this weapon in dealing punishment to the wicked.
+@2326 = ~With the addition of the Nymph's Tear into the pommel, Ilusarian's morningstar now surges with Ilmater's holy retribution.  While it demands ever more from the wielder's own strength, the crying god's faithful would be well served by this weapon in dealing punishment to the wicked.
 
 STATISTICS:
 
@@ -3949,7 +3949,7 @@ STATISTICS:
 
 Equipped abilities:
 – Armor Class: +3
-– 15% chance that anyone attacking the weilder in melee takes 1d4 points of fire damage and becomes blinded for 2 rounds (Save vs. Spell halves damage and negates blindness)
+– 15% chance that anyone attacking the wielder in melee takes 1d4 points of fire damage and becomes blinded for 2 rounds (Save vs. Spell halves damage and negates blindness)
 – No protection against missile attacks
 
 Charge abilities:
@@ -3988,12 +3988,12 @@ Equipped abilities:
 
 Weight: 1~
 @2351 = ~Echo of the Fiend +3~
-@2352 = ~A devil of Avernus once possessed this gnarled wooden staff. Though the devil long since escaped from the staff, a residue of its essence permeated the weapon and lingers still. When a command word is spoken, an aura of fire springs up around anyone wielding the staff; though the flames leave the weilder untouched, they sear others with devastating heat.
+@2352 = ~A devil of Avernus once possessed this gnarled wooden staff. Though the devil long since escaped from the staff, a residue of its essence permeated the weapon and lingers still. When a command word is spoken, an aura of fire springs up around anyone wielding the staff; though the flames leave the wielder untouched, they sear others with devastating heat.
 
 STATISTICS:
 
 Combat abilities:
-– 5% chance per hit of triggering a Sunfire spell centered on the weilder
+– 5% chance per hit of triggering a Sunfire spell centered on the wielder
 
 Charge abilities:
 – Fireshield (Red) twice per day
@@ -4067,7 +4067,7 @@ Equipped abilities:
 – Strength: +1
 
 Combat abilities:
-– 2% chance per hit that the weilder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
+– 2% chance per hit that the wielder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
 
 THAC0: +2
 Damage: 1d8+2, +1 cold
@@ -4112,7 +4112,7 @@ Requires:
 
 Weight: 3~
 @2367 = ~The Hydra +2~
-@2368 = ~The three heads of this flail look like dragon heads, giving the weapon its fearsome name. As the weilder swings the weapon, its heads seem to blur and divide until a mass of hydra heads whips from the end of the chain. When the weilder ceases attacking, the weapon reverts to its original appearance.
+@2368 = ~The three heads of this flail look like dragon heads, giving the weapon its fearsome name. As the wielder swings the weapon, its heads seem to blur and divide until a mass of hydra heads whips from the end of the chain. When the wielder ceases attacking, the weapon reverts to its original appearance.
 
 STATISTICS:
 
@@ -4129,7 +4129,7 @@ Requires:
 
 Weight: 12~
 @2369 = ~Blazing Glory +3~
-@2370 = ~This glittering morningstar was crafted by weaponsmiths in the Temple of Tempus in Waterdeep. Fashioned as a weapon for Tempus's priests, who cannot use their deity's favored weapon due to its bladed edge, Blazing Glory has a black iron tip studded with points of alternating gold and ruby. Enchantments harden these points and add a flash of fire with every blow. The weilder of Blazing Glory never tires in battle, fortified by the will of the Lord of Battles himself. 
+@2370 = ~This glittering morningstar was crafted by weaponsmiths in the Temple of Tempus in Waterdeep. Fashioned as a weapon for Tempus's priests, who cannot use their deity's favored weapon due to its bladed edge, Blazing Glory has a black iron tip studded with points of alternating gold and ruby. Enchantments harden these points and add a flash of fire with every blow. The wielder of Blazing Glory never tires in battle, fortified by the will of the Lord of Battles himself. 
 
 STATISTICS:
 
@@ -4137,7 +4137,7 @@ Equipped abilities:
 – Immunity to fatigue
 
 Combat abilities:
-– 10% chance of casting Chant centered on the weilder on each hit
+– 10% chance of casting Chant centered on the wielder on each hit
 
 THAC0: +3
 Damage: 2d4+3 (crushing) +1 (fire)
@@ -4281,7 +4281,7 @@ Once the property of dwarven cleric of Abbathor, Gurn Coldhearth, this mighty wa
 STATISTICS:
 
 Equipped abilities:
-– On a critical miss, the weilder takes 1d4 points of cold damage
+– On a critical miss, the wielder takes 1d4 points of cold damage
 
 Combat abilities:
 – Deals an extra 2d4 points of cold damage vs. good-aligned Clerics
@@ -4488,7 +4488,7 @@ STATISTICS:
 
 Weight: 1~
 @2431 = ~Firefly +2~
-@2432 = ~This sling, carefully carved from yew wood, has tiny fireflies engraved along its length. When a slingstone is fired, the fireflies glow with a soft golden light. The sling was crafted and blessed by a priestess of Yondalla and so grants its full abilities only to halfling weilders.
+@2432 = ~This sling, carefully carved from yew wood, has tiny fireflies engraved along its length. When a slingstone is fired, the fireflies glow with a soft golden light. The sling was crafted and blessed by a priestess of Yondalla and so grants its full abilities only to halfling wielders.
 
 STATISTICS:
 
@@ -4527,12 +4527,12 @@ Requires:
 
 Weight: 3~
 @2435 = ~Fractal Blade +3~
-@2436 = ~A line of diamond-shaped mirrors run up the center of this short sword's blade. The smallest bit of light catches the mirrors, flashing and flickering as the weilder fights. Rumor has it that the blade was constructed by a particularly vain fighter from Sembia who later lost it in a duel. The fighter became distracted by his own reflection in a nearby shop window and failed to parry his opponent's blow.
+@2436 = ~A line of diamond-shaped mirrors run up the center of this short sword's blade. The smallest bit of light catches the mirrors, flashing and flickering as the wielder fights. Rumor has it that the blade was constructed by a particularly vain fighter from Sembia who later lost it in a duel. The fighter became distracted by his own reflection in a nearby shop window and failed to parry his opponent's blow.
 
 STATISTICS:
 
 Equipped abilities:
-– Whenever the weilder is hit, there is a 10% chance <PRO_HESHE> is surrounded by 3 mirror images for 3 rounds
+– Whenever the wielder is hit, there is a 10% chance <PRO_HESHE> is surrounded by 3 mirror images for 3 rounds
 
 Combat abilities:
 – 50% chance per hit of dispelling all illusionary spells (e.g. Mirror Image or Improved Invisibility) affecting the target
@@ -5520,7 +5520,7 @@ Requires:
  6 Strength
 
 Weight: 4~
-@2582 = ~The restored blade of Xhost's "gift" has been tempered in the blood of an abyssal demon lord, greatly increasing it's power.  The blade is immolated in unextinguishable, corrosive green hellfire.  When struck, the freshly rent flesh of foes immediately corrodes and dissolves, leaving nasty wounds.  Once per day, the weilder may speak the abyssal runes etched into the blade, which will channel fell, demonic energy into themselves, becoming a terrifying, neigh-unstoppable force in combat for a brief time.  This power comes at a cost, however, as the weilder may inadvertently attack friend and foe alike while in this state of fury, and once it ends, they are left utterly exhausted and weakened.
+@2582 = ~The restored blade of Xhost's "gift" has been tempered in the blood of an abyssal demon lord, greatly increasing it's power.  The blade is immolated in unextinguishable, corrosive green hellfire.  When struck, the freshly rent flesh of foes immediately corrodes and dissolves, leaving nasty wounds.  Once per day, the wielder may speak the abyssal runes etched into the blade, which will channel fell, demonic energy into themselves, becoming a terrifying, neigh-unstoppable force in combat for a brief time.  This power comes at a cost, however, as the wielder may inadvertently attack friend and foe alike while in this state of fury, and once it ends, they are left utterly exhausted and weakened.
 
 STATISTICS:
 
@@ -5831,7 +5831,7 @@ Requires:
  6 Strength
 
 Weight: 6~
-@2629 = ~Not much is known about this katana; its true origin has been lost to time. The edge of the blade has been sharpened to perfection, giving the weilder a chance to slay an opponent with a single blow, unless they can somehow survive the sudden loss of their head. Markings engraved upon the hilt suggest that the sword is especially potent when used against creatures from the outer planes, while protective enchantments keep the weilder's mind clear of doubt and focus <PRO_HISHER> will. Who originally commissioned the creation of this weapon, or why, remains a mystery. Two words are etched into the blade itself: "Solemn Duty."
+@2629 = ~Not much is known about this katana; its true origin has been lost to time. The edge of the blade has been sharpened to perfection, giving the wielder a chance to slay an opponent with a single blow, unless they can somehow survive the sudden loss of their head. Markings engraved upon the hilt suggest that the sword is especially potent when used against creatures from the outer planes, while protective enchantments keep the wielder's mind clear of doubt and focus <PRO_HISHER> will. Who originally commissioned the creation of this weapon, or why, remains a mystery. Two words are etched into the blade itself: "Solemn Duty."
 
 STATISTICS:
 
@@ -5888,7 +5888,7 @@ Requires:
 
 Weight: 2~
 @2636 = ~Infernal Gift of the Demon +5~
-@2637 = ~The crystal-like eye of the Demogorgon has been fitted into the crossguard of The Demon's Gift, imparting a portion of it's power into the sword.  Demonic energies surge through the blade, and it burns with a ferocious intensity.  A steady, almost heartbeat-like thump can be felt when weilding the sword, driving a feeling of bloodlust in it's weilder, urging <PRO_HIMHER> to use it to cut a bloody swath across the whole of Faerûn.  When idle, the Demogorgon's eye fixes it's hateful gaze upon the weilder, giving <PRO_HIMHER> the uneasy feeling that <PRO_HESHE> may be the blade's next victim.
+@2637 = ~The crystal-like eye of the Demogorgon has been fitted into the crossguard of The Demon's Gift, imparting a portion of it's power into the sword.  Demonic energies surge through the blade, and it burns with a ferocious intensity.  A steady, almost heartbeat-like thump can be felt when weilding the sword, driving a feeling of bloodlust in it's wielder, urging <PRO_HIMHER> to use it to cut a bloody swath across the whole of Faerûn.  When idle, the Demogorgon's eye fixes it's hateful gaze upon the wielder, giving <PRO_HIMHER> the uneasy feeling that <PRO_HESHE> may be the blade's next victim.
 
 STATISTICS:
 
@@ -5957,7 +5957,7 @@ STATISTICS:
 
 Weight: 2~
 @2648 = ~Varscona +5~
-@2649 = ~With the addition of an imbued shadow gemstone plucked from the very shadow plane itself into the pommel, The dark sword Varscona has reached it's full potential.  The weilder may strike with ever more ferocity and accuracy, especially at night.  When a critical hit is scored with this weapon, a shadow monster is pulled into the Prime Material Plane and will fight alongside <PRO_HIMHER> for a brief time.  When holding the blade, one experiences a strange sensation of satisfaction.  It could be speculated that this may be the spirit of the Sharran priestess the sword was buried with so long ago.  Surely, she would be most pleased with what has become of her forebearance.
+@2649 = ~With the addition of an imbued shadow gemstone plucked from the very shadow plane itself into the pommel, The dark sword Varscona has reached it's full potential.  The wielder may strike with ever more ferocity and accuracy, especially at night.  When a critical hit is scored with this weapon, a shadow monster is pulled into the Prime Material Plane and will fight alongside <PRO_HIMHER> for a brief time.  When holding the blade, one experiences a strange sensation of satisfaction.  It could be speculated that this may be the spirit of the Sharran priestess the sword was buried with so long ago.  Surely, she would be most pleased with what has become of her forebearance.
 
 STATISTICS:
 
@@ -5976,7 +5976,7 @@ Charge abilities:
 
 Combat abilities:
 – 20% chance of blinding creatures struck for 1 turn, or draining them of 1 level permanently. (Save vs. Spell at -4 negates)
-– On critical hit, a shadow monster is summoned to fight alongside the weilder for 1 turn. (with this weapon only)
+– On critical hit, a shadow monster is summoned to fight alongside the wielder for 1 turn. (with this weapon only)
 
 THAC0: +5
 Damage: 1d8+5, 1d2+1(cold), 1d2+1(magic)
@@ -6015,7 +6015,7 @@ Weight: 0~
 STATISTICS:
 
 Combat abilities:
-– Returns to the weilder's hand when thrown
+– Returns to the wielder's hand when thrown
 – Deals an extra 1d4 cold damage to fire elementals
 – Deals an extra 1d4 fire damage to water elementals
 – Deals an extra 1d4 acid damage to earth elementals
@@ -6039,7 +6039,7 @@ Weight: 1~
 STATISTICS:
 
 Combat abilities:
-– Returns to the weilder's hand when thrown
+– Returns to the wielder's hand when thrown
 – Deals an extra 1d4 cold damage to fire elementals
 – Deals an extra 1d4 fire damage to water elementals
 – Deals an extra 1d4 acid damage to earth elementals
@@ -6063,7 +6063,7 @@ Weight: 1~
 STATISTICS:
 
 Combat abilities:
-– Returns to the weilder's hand when thrown
+– Returns to the wielder's hand when thrown
 – Deals an extra 1d4 cold damage to fire elementals
 – Deals an extra 1d4 fire damage to water elementals
 – Deals an extra 1d4 acid damage to earth elementals
@@ -6145,12 +6145,12 @@ Requires:
 
 Weight: 5~
 @2662 = ~Maelstrom Axe +5~
-@2663 = ~By the mounting the Body of Water securely into the head, the Maelstrom Axe has reached it's full potential.  In addition to striking with the force of a tsunami, the weilder may, once per day, conjure forth a furious malestrom to batter their foes into submission.  One would do well to avoid followers of Umberlee while weilding this weapon, as the bitch-queens followers would likely be incensed by the careless flaunting of their goddess' powers and artifacts by non-believers.
+@2663 = ~By the mounting the Body of Water securely into the head, the Maelstrom Axe has reached it's full potential.  In addition to striking with the force of a tsunami, the wielder may, once per day, conjure forth a furious malestrom to batter their foes into submission.  One would do well to avoid followers of Umberlee while weilding this weapon, as the bitch-queens followers would likely be incensed by the careless flaunting of their goddess' powers and artifacts by non-believers.
 
 STATISTICS:
 
 Combat abilities:
-– Returns to weilder's hand when thrown
+– Returns to wielder's hand when thrown
 – 15% chance per hit of stunning the target for 1 round (Save vs. Spell negates)
 – Slays fire elementals, efreet, and salamanders
 – 10% chance per hit of smashing wave (melee only)
@@ -6190,7 +6190,7 @@ Requires:
 
 Weight: 15~
 @2666 = ~Maelstrom Pike +6~
-@2667 = ~By the mounting the Body of Water securely into the head, the Maelstrom Pike has reached it's full potential.  In addition to striking with the force of a tsunami, the weilder may, once per day, conjure forth a furious malestrom to batter their foes into submission.  One would do well to avoid followers of Umberlee while weilding this weapon, as the bitch-queen's followers would likely be incensed by the careless flaunting of their goddess' powers and artifacts by non-believers.
+@2667 = ~By the mounting the Body of Water securely into the head, the Maelstrom Pike has reached it's full potential.  In addition to striking with the force of a tsunami, the wielder may, once per day, conjure forth a furious malestrom to batter their foes into submission.  One would do well to avoid followers of Umberlee while weilding this weapon, as the bitch-queen's followers would likely be incensed by the careless flaunting of their goddess' powers and artifacts by non-believers.
 
 STATISTICS:
 
@@ -6250,7 +6250,7 @@ Requires:
 
 Weight: 4~
 @2674 = ~Water's Edge +5~
-@2675 = ~Addition of the Body of Water to the previously unadorned hilt brings the full force of a tsunami to the Water's Edge.  Strikes from the blade will slay fire-dwelling creatures in a single blow, and will occasionally send a crushing wave into the battlefront against the weilder's foes. 
+@2675 = ~Addition of the Body of Water to the previously unadorned hilt brings the full force of a tsunami to the Water's Edge.  Strikes from the blade will slay fire-dwelling creatures in a single blow, and will occasionally send a crushing wave into the battlefront against the wielder's foes. 
 
 STATISTICS:
 
@@ -6282,12 +6282,12 @@ Requires:
  4 Strength
 
 Weight: 3~
-@2679 = ~The holy symbol of the sun god, Amaunator, has been integrated into The Suncatcher, which has further empowered the shield with the blazing energy of the sun.  The energized shield feels lively in the hand and seems somehow lighter, similar to that of a buckler.  Foes who successfully land a blow on the weilder are rebuffed by the combined might of the morninglord and sun god, burning and blinding them with a scorching ray of pure light, with undead and creatures of shadow being especially susceptible.
+@2679 = ~The holy symbol of the sun god, Amaunator, has been integrated into The Suncatcher, which has further empowered the shield with the blazing energy of the sun.  The energized shield feels lively in the hand and seems somehow lighter, similar to that of a buckler.  Foes who successfully land a blow on the wielder are rebuffed by the combined might of the morninglord and sun god, burning and blinding them with a scorching ray of pure light, with undead and creatures of shadow being especially susceptible.
 STATISTICS:
 
 Equipped abilities:
 – Armor Class: +3
-– 30% chance that anyone attacking the weilder in melee takes 1d6+1 points per level of fire damage and becomes blinded for 3 rounds.  Undead take an additional 1 point per level of fire damage. (Save vs. Spell halves damage and negates blindness)
+– 30% chance that anyone attacking the wielder in melee takes 1d6+1 points per level of fire damage and becomes blinded for 3 rounds.  Undead take an additional 1 point per level of fire damage. (Save vs. Spell halves damage and negates blindness)
 – No protection against missile attacks
 
 Charge abilities:
@@ -6362,7 +6362,7 @@ Equipped abilities:
 
 Weight: 2~
 @2696 = ~Dervish Crescent of Speed +5~
-@2697 = ~The Heart of Flame has been set into the pommel of this calimshite scimitar, awakening it's full scorching potential.  Searing heat emenates from the blade, as if constantly being heated by a smith's forge.  When creatures are struck by it, deep, smoldering wounds are left behind.  Once per day, the weilder may conjure forth a whirling dervish of flame onto the battlefield.
+@2697 = ~The Heart of Flame has been set into the pommel of this calimshite scimitar, awakening it's full scorching potential.  Searing heat emenates from the blade, as if constantly being heated by a smith's forge.  When creatures are struck by it, deep, smoldering wounds are left behind.  Once per day, the wielder may conjure forth a whirling dervish of flame onto the battlefield.
 
 STATISTICS:
 
@@ -6370,7 +6370,7 @@ Equipped abilities:
 – Movement Speed: +1
 
 Combat abilities:
-– 15% chance per kill that the weilder will be affected by Fireshield (Red)
+– 15% chance per kill that the wielder will be affected by Fireshield (Red)
 – 1 extra attack per round
 
 Charge Abilities:
@@ -6538,7 +6538,7 @@ Equipped abilities:
 – Immunity to fatigue
 
 Combat abilities:
-– 10% chance of casting Chant centered on the weilder on each hit
+– 10% chance of casting Chant centered on the wielder on each hit
 – 10% chance of Flame Strike on target when hit
   Damage: 9d8 fire (Save vs. Spell halves)
   Area of Effect: 1 creature
@@ -6913,12 +6913,12 @@ Weight: 15~
 @2771 = ~Blue Dragon Plate +2~
 @2772 = ~Shadow Dragonscale Armor +3~
 @2773 = ~Dread Hammer +3~
-@2774 = ~Enfused by the dark magics contained within the lich Deirex's tooth, Coldhearth's former weapon now seethes with deathly energies.  It's a far more formidable weapon, even though it still requires a price for it's power from the weilder.  Strangley, the tooth has also imparted it's ability to open locked doors and chests to the hammer, allowing the weilder to do so three times per day for any lock <PRO_HESHE> may encounter.
+@2774 = ~Enfused by the dark magics contained within the lich Deirex's tooth, Coldhearth's former weapon now seethes with deathly energies.  It's a far more formidable weapon, even though it still requires a price for it's power from the wielder.  Strangley, the tooth has also imparted it's ability to open locked doors and chests to the hammer, allowing the wielder to do so three times per day for any lock <PRO_HESHE> may encounter.
 
 STATISTICS:
 
 Equipped abilities:
-– On a critical miss, the weilder takes 1d4 points of cold damage
+– On a critical miss, the wielder takes 1d4 points of cold damage
 
 Charge abilities:
 – Knock three times per day
@@ -7162,7 +7162,7 @@ Requires:
 
 Weight: 1~
 @2809 = ~Blizzard Axe +4~
-@2810 = ~When reforged with Illgarth's terrible implement, this berserker's axe is now far stronger.  Frost and acid are imbedded in every slash, exacerbating the wounds further.  The weilder must take care, however, as there is an increased chance of going berserk when swinging it in battle.  
+@2810 = ~When reforged with Illgarth's terrible implement, this berserker's axe is now far stronger.  Frost and acid are imbedded in every slash, exacerbating the wounds further.  The wielder must take care, however, as there is an increased chance of going berserk when swinging it in battle.  
 
 STATISTICS:
 
@@ -7170,7 +7170,7 @@ Equipped abilities:
 – Strength: +1
 
 Combat abilities:
-– 4% chance per hit that the weilder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
+– 4% chance per hit that the wielder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
 
 THAC0: +4
 Damage: 1d8+4, 1d2 (cold), 1d2 (acid)
@@ -7183,7 +7183,7 @@ Requires:
 
 Weight: 5~
 @2811 = ~Blizzard Axe +5~
-@2812 = ~The Soul of Frost has awakened the rage of winter in the Ice Dragon ranger's axe.  The runes carved in the blade now glow intensely, fueling the rage contained within, allowing the weilder to draw forth a torrent of frozen stalagmites to impale <PRO_HISHER> foes with, at the increased cost of going berserk themselves with each swing.
+@2812 = ~The Soul of Frost has awakened the rage of winter in the Ice Dragon ranger's axe.  The runes carved in the blade now glow intensely, fueling the rage contained within, allowing the wielder to draw forth a torrent of frozen stalagmites to impale <PRO_HISHER> foes with, at the increased cost of going berserk themselves with each swing.
 
 STATISTICS:
 
@@ -7191,7 +7191,7 @@ Equipped abilities:
 – Strength: +1
 
 Combat abilities:
-– 6% chance per hit that the weilder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
+– 6% chance per hit that the wielder will become berserk, losing control of <PRO_HISHER> actions for 3 rounds
 
 Charge abilities:
 – Penetrating Cold once per day
